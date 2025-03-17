@@ -1,9 +1,7 @@
 ---
-
-# **Amazon USA Sales Analysis Project**
+# Amazon USA Sales Analysis – SQL + Power BI Dashboard
 
 ### **Difficulty Level: Advanced**
-
 ---
 
 ## **Project Overview**
@@ -18,6 +16,28 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ![ERD](https://github.com/Bsetia1/Amazon-Business-Problems-Advanced-SQL-Project/blob/main/ERD.png)
 
+
+The project consists of:
+1️ **SQL Analysis**: Complex queries to analyze sales trends, customer segmentation, and inventory.  
+2️ **Power BI Dashboard**: **KPIs, revenue trends, top products, and customer insights** in an interactive dashboard.
+
+---
+
+## Power BI Dashboard
+** Key Features:**
+Sales Performance Overview  
+Monthly Revenue Trends  
+Top Selling Products  
+Customer Segmentation
+Monthly Targets v/s Actuals Analysis
+Shipping & Inventory Analysis  
+
+ **Dashboard Preview:**  
+![KPI Overview](https://github.com/Bsetia1/Amazon-Business-Problems-Advanced-SQL-Project/blob/main/Screenshot%20Dashboard.png)
+
+ **[Download the Power BI Dashboard](https://drive.google.com/file/d/14cndYHXnpbamJ5zB68k6b7rhHSbH4N7q/view?usp=drive_link)** 
+
+---
 ## **Database Setup & Design**
 
 ### **Schema Structure**
@@ -731,15 +751,16 @@ This project enabled me to:
 - Design and implement a normalized database schema.
 - Clean and preprocess real-world datasets for analysis.
 - Use advanced SQL techniques, including window functions, subqueries, and joins.
-- Conduct in-depth business analysis using SQL.
+- Conduct in-depth business analysis using SQL and Power BI.
 - Optimize query performance and handle large datasets efficiently.
+- KPI visualizations, filtering, DAX calculations.
 
 ---
 
 ## **Conclusion**
 
-This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
+This advanced SQL + Power BI project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries and visualization. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
 
-By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
+By completing this project, I have gained a deeper understanding of how SQL and Power BI can be used to tackle complex data problems and drive business decision-making.
 
 ---
