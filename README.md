@@ -24,7 +24,7 @@ The project consists of:
 ---
 
 ## Power BI Dashboard
-** Key Features:**
+**Key Features:**
 Sales Performance Overview  
 Monthly Revenue Trends  
 Top Selling Products  
